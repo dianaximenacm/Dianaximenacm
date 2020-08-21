@@ -1,7 +1,7 @@
 ### Hi there,I am Ximena Chitiva  👋
 
 **🌱 I’m currently learning about Front-End Development.**
-**👯 I’m looking to collaborate, work and learn about any educational, literature and design project.**
+**🎨 I’m looking to collaborate, work and learn about any educational, literature and design project.**
 
 **Click here** [<img src="https://img.icons8.com/nolan/64/moleskine.png"/>](https://dianaximenacm.github.io/Portfolio/)**to see my portfolio where you can find more about me...**
 
