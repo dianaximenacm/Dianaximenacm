@@ -3,7 +3,7 @@
 **🌱 I’m currently learning about Front-End Development.**
 **👯 I’m looking to collaborate, work and learn about any educational, literature and design project.**
 
-[<img src="https://img.icons8.com/nolan/64/moleskine.png"/>](https://dianaximenacm.github.io/Portfolio/)**This is my portfolio where you can find more about me...**
+**Click here** [<img src="https://img.icons8.com/nolan/64/moleskine.png"/>](https://dianaximenacm.github.io/Portfolio/)**to see my portfolio where you can find more about me...**
 
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/color/48/000000/sass.png"/><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/github-2.png"/><img src="https://img.icons8.com/color/48/000000/media-queries.png"/>
 
