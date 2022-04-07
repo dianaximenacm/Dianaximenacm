@@ -16,9 +16,9 @@
 **💬 Ask me about whatever you want**
 **📫 How to reach me:**
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/> ](https://www.linkedin.com/in/dianximenacm/ )
-[<img src="https://img.icons8.com/color/48/000000/twitter-circled.png"/>](https://twitter.com/dianaximenacm) 
 [<img src="https://img.icons8.com/color/48/000000/codepen.png"/>](https://codepen.io/dianaximenacm)
 
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/dianaximenacm.svg?style=social&label=Follow%dianaximenacm)](https://twitter.com/dianaximenacm)
 <!--
 **dianaximenacm/Dianaximenacm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
