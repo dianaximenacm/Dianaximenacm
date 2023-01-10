@@ -9,7 +9,7 @@
 
 ![Diana's github stats](https://github-readme-stats.vercel.app/api?username=dianaximenacm&show_icons=true&theme=tokyonight)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![dianaximenacm's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianaximenacm&show_icons=true&theme=tokyonight (https://github.com/dianaximenacm/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dianaximenacm&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
